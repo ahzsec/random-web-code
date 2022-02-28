@@ -192,6 +192,42 @@
     padding: 9.6rem 0;
 }
 
+.strategy {
+    box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.075);
+    border-radius: 11px;
+    overflow: hidden;
+}
+
+.strategy-content {
+    padding: 3.2rem 4.8rem 4.8rem 4.8rem;
+}
+
+.strategy-tags {
+    margin-bottom: 1.2rem;
+    display: flex;
+    gap: 0.4rem;
+}
+
+.tag {
+    display: inline-block;
+    padding: 0.4rem 0.8rem;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    color: #333;
+    border-radius: 100px;
+    font-weight: 600;
+}
+
+.tag--emerald {
+    background-color: #51cf66;
+}
+.tag--yellow-Green {
+    background-color: #94d82d;
+}
+.tag--sunglow {
+    background-color: #ffd43b;
+}
+
 .strategy-title {
     font-size: 2.4rem;
     color: #333;
@@ -208,6 +244,15 @@
 
 .strategy-attribute {
     font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    gap: 1.6rem;
+}
+
+.strategy-icon {
+    height: 2.4rem;
+    width: 2.4rem;
+    color: #e67e22;
 }
 
 .strategy-img {
