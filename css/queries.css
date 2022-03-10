@@ -1,0 +1,12 @@
+/* Small laptops
+   —— < 1344px — */
+
+@media (max-width: 84em) {
+    .hero {
+        max-width: 120rem;
+    }
+
+    .heading-primary {
+        font-size: 4.8rem;
+    }
+}
