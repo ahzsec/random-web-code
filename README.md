@@ -1,8 +1,12 @@
 <div align="center">
-  <a href="https://github.com/ahzsec/phalanx">
+  <a href="https://github.com/ahzsec/random-web-code">
     <img src="preview/logo.png" alt="Logo" width="350">
   </a>
-  
+
+  <a href="https://github.com/ahzsec/random-web-code/blob/main/LICENSE.md">
+    <img src="https://img.shields.io/badge/License-MIT-61a778" alt="License badge" width="75">
+  </a>
+
   </br>
 
   | Repo      | Description | Stack     |
